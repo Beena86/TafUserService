@@ -20,7 +20,7 @@ configurations {
 }
 // Optional: Customize JAR name
 bootJar {
-	archiveFileName = 'flightuserapp.jar'
+	archiveFileName = 'flightusersapp.jar'
 }
 
 repositories {
